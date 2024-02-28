@@ -49,5 +49,4 @@ icons[1].addEventListener('mouseenter' , ()=>{
 icons[1].addEventListener('mouseleave' , ()=>{
     icons[1].style.paddingLeft = '0';
 })
-
-let num = 10;
+let name = arshia;
